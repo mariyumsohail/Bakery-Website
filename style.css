@@ -1,0 +1,317 @@
+.img1{
+  height: 127px;
+  width: 127px;
+}
+.navbar-nav{
+  margin-left: 100px;
+}
+.btn btn-info{
+  margin-left: 100px;
+}
+.div1{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5%;
+  position: relative;
+  top: 50px;
+}
+.div2{
+  display: flex;
+  justify-content: space-around;
+ position: relative;
+ top: 172px;
+ border-radius: 3%;
+
+}
+.box1{
+  width: 590px;
+    height: 549px;
+    border: 2px solid white;
+    position: relative;
+    top: 108px;
+    margin-left: 395px;
+    border-radius: 3%;
+
+}
+.p1{
+  color: white;
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  position: relative;
+  top: 68px;
+  margin-left: 154px;
+}
+
+.p2{
+  color: white;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  position: relative;
+  top: 165px;
+  margin-left: 71px;
+}
+.background{
+  background-image: url(images/imgb.jpg);
+  width: 100%;
+  height: 700px;
+  position: relative;
+    top: 327px;
+   
+}
+
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.w-100{
+  width: 100%;
+}
+.creation2{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5%;
+  position: relative;
+  top: 463px;
+}
+
+.creation1{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5%;
+  position: relative;
+  top: 413px;
+}
+.ing{
+  background-image: url(images/bakery24-1-1200x800.jpg);
+  width: 100%;
+  height: 700px;
+  position: relative;
+    top: 557px;
+}
+.p3{
+color: black;
+font-size: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+position: relative;
+top: 50px;
+margin-left: 527px;
+}
+
+.p4{
+  color: rgba(0, 0, 0, 0.788);
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  position: relative;
+  top: 62px;
+  margin-left: 527px;
+  }
+  .br{
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 102px;
+    margin-left: 527px;
+  }
+  .eve{
+    height: 112px;
+    border-radius: 49%;
+    margin-left: 576px;
+    position: relative;
+    top: 111px;
+  }
+  .p5{
+    color: rgba(0, 0, 0, 0.712);
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 133px;
+    margin-left: 553px;
+  }
+  .p6{
+    color: rgba(0, 0, 0, 0.76);
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 830px;
+    margin-left: 527px;
+  }
+  .cli{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 327px;
+   margin-left: 200px;
+  }
+ .img6{
+  height: 97px;
+  margin-left: 197px;
+  position: relative;
+  top: 921px;
+  border-radius: 56%;
+ }
+ .p7{
+  margin-left: 290px;
+  position: relative;
+  top: 1086px;
+  font-size: 14px;
+  font-family: monospace;
+ }
+ .p8{
+  margin-left: 306px;
+  position: relative;
+  top: 642px;
+  font-size: 14px;
+  font-family: monospace;
+}
+ .img7{
+  height: 84px;
+    margin-left: 197px;
+    position: relative;
+    top: 951px;
+    border-radius: 47%;
+ }
+ .img8{
+  height: 84px;
+    margin-left: 772px;
+    position: relative;
+    top: 716px;
+    border-radius: 47%;
+ }
+ .img9{
+  height: 90px;
+    margin-left: 763px;
+    position: relative;
+    top: 294px;
+    border-radius: 47%;
+ }
+ .p10{
+  margin-left: 877px;
+  position: relative;
+  top: 437px;
+  font-size: 14px;
+  font-family: monospace;
+ }
+ .p9{
+  margin-left: 868px;
+    position: relative;
+    top: 441px;
+    font-size: 14px;
+    font-family: monospace
+ }
+ .boxx{
+  border: 3px solid #fff;
+  height: 911px;
+  width: 642px;
+  position: relative;
+  top: 399px;
+  margin-left: 100px;
+ }
+ .hh{
+  margin-left: 504px;
+    position: relative;
+    top: 353px;
+    font-size: 47px;
+ }
+ .lastdiv{
+  background-image: url(images/divimg.jpg);
+  position: relative;
+  top: 361px;
+    width: 100%;
+    height: 604px;
+
+ }
+ .cr{
+  color: #000000ad;
+    font-size: 51px;
+    margin-left: 500px;
+    position: relative;
+    top: 389px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.color{
+ background-color: rgb(0 0 0 / 74%);
+  width: 100%;
+  height: 768px;
+}
+
+.input{
+  margin-left: 363px;
+    position: relative;
+    top: 389px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 18px;
+    padding-left: 20px;
+    padding-right: 234px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: transparent;
+}
+.btn17{
+ 
+  margin-left: 305px;
+  position: relative;
+  top: 354px;
+  color: white;
+  border: 2px solid white;
+  border-radius: 18px;
+  padding-left: 65px;
+  padding-right: 66px;
+  padding-top: 7px;
+  padding-bottom: 10px;
+  background-color: rgba(4, 226, 226, 0.932);
+}
+.margin{
+  position: relative;
+  top: -189px;
+}
+.clr{
+  background-color: rgb(240 128 128 / 48%);
+  width: 100%;
+  height: 100%;
+  }
+  .input{
+    margin-left: 10px;
+  position: relative;
+  top: 389px;
+  color: white;
+  border: 2px solid white;
+  border-radius: 4%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+  }
+  .lastp{
+    font-size: 65px;
+    color: #ffffffba;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 311px;
+    position: relative;
+    top: 172px;
+  }
+  
+.ul1  {
+  display: flex;
+  position: relative;
+  top: 442px;
+  margin-left: 59px;
+  gap: 122px;
+  list-style-type: none;
+  }
+  .ul1 li a{
+    font-size: 20px;
+    color: white;
+list-style-type: none;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+  }
+  .welcome{
+    color: white;
+    font-size: 50px;
+    margin-left: 10px;
+  }
